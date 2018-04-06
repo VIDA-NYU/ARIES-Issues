@@ -7,7 +7,9 @@ To address this problem, we designed **ARIES - ARt Image Exploration Space**, an
 ARIES was presented in the `paper <https://www.computer.org/csdl/mags/cg/2018/01/mcg2018010091-abs.html>`_.
 
 ARIES: Enabling Visual Exploration and Organization of Art Image Collections
+
 Lhaylla Crissadd, Louisa Ruby, Samantha Deutch, Luke DuBois, Jean-Daniel Fekete, Juliana Freire and Cláudio T. Silva
+
 IEEE Computer Graphics and Applications, 38 (1), 2018, 91-108.
 
 The team includes:
