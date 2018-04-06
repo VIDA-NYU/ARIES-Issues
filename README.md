@@ -10,7 +10,7 @@ ARIES: Enabling Visual Exploration and Organization of Art Image Collections
 Lhaylla Crissadd, Louisa Ruby, Samantha Deutch, Luke DuBois, Jean-Daniel Fekete, Juliana Freire and Cláudio T. Silva
 IEEE Computer Graphics and Applications, 38 (1), 2018, 91-108.
 
-#. The team includes:
+The team includes:
 
    * Lhaylla Crissaff (Universidade Federal Fluminense, Brazil)
    * João Lucas Rullf (New York University, USA)
