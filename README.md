@@ -13,12 +13,10 @@ IEEE Computer Graphics and Applications, 38 (1), 2018, 91-108.
 The team includes:
 
    * Lhaylla Crissaff (Universidade Federal Fluminense, Brazil)
-   
-   * João Lucas Rullf (New York University, USA)
+   * João Lucas Rullf (New York University, USA)
    * Marcos Lage (Universidade Federal Fluminense, Brazil)
    * Louisa Wood Ruby (The Frick Collection, USA)
    * Samantha Deutch (The Frick Collection, USA)
    * Juliana Freire (New York University, USA)
-   
-   * Cláudio Silva (New York University, USA)
+   * Cláudio Silva (New York University, USA)
 
