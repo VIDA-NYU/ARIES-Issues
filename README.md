@@ -18,5 +18,9 @@ The team includes:
    * Samantha Deutch (The Frick Collection, USA)
    * Juliana Freire (New York University, USA)
    * Cláudio Silva (New York University, USA)
+   
+=================
+The system
+=================   
 
  
