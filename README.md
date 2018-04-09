@@ -24,6 +24,6 @@ The team includes:
 
 Access ARIES <a href="https://artimageexplorationspace.com">here</a> and create an account. The image below shows the interface of ARIES:
 
-![alt tag](http://domain.com/path/to/img.png "Description goes here")
+![](screenshots/ARIESInterface.png)
 
 
