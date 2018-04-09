@@ -19,8 +19,8 @@ The team includes:
    * Juliana Freire (New York University, USA)
    * Cláudio Silva (New York University, USA)
    
-=================
+==========
 The system
-=================   
+==========  
 
  
