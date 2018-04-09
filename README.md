@@ -11,7 +11,6 @@ ARIES was presented in the `paper <https://www.computer.org/csdl/mags/cg/2018/01
 |  ARIES: Enabling Visual Exploration and Organization of Art Image Collections 
 |  Lhaylla Crissaff, Louisa Ruby, Samantha Deutch, Luke DuBois, Jean-Daniel Fekete, Juliana Freire and Cláudio T. Silva 
 |  *IEEE Computer Graphics and Applications*, 38 (1), 2018, 91-108.
-
 """
 
 The team includes:
