@@ -26,6 +26,5 @@ Access ARIES <a href="https://artimageexplorationspace.com">here</a> and create 
 
 ![](screenshots/ARIESInterface.png)
 
-.. How to use the system. Add videos
 
 
