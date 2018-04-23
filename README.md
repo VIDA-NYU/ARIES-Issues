@@ -26,5 +26,22 @@ Access ARIES <a href="https://artimageexplorationspace.com">here</a> and create 
 
 ![](screenshots/ARIESInterface.png)
 
+## Videos 
+
+Demos can be accessed on:
+
+   * <a href="https://youtu.be/lS8XL6UN2_w">Interface</a>
+   * <a href="https://youtu.be/n2SR0USI5vM">Crop</a>
+   * <a href="https://youtu.be/ILpgRjPzhkI">Rect Tool</a>
+   * <a href="https://youtu.be/HX_Myffxenw">Lens Tool</a>
+   * <a href="https://youtu.be/4ZEAn6EV-Wk">Tag Tool</a>
+   * <a href="https://youtu.be/s3N5Nx-GkSU">Relative Size Tool</a>
+   * <a href="https://youtu.be/FWJlY4EpzJU">Wall Tool</a>
+   * <a href="https://youtu.be/rOq4zyAbO4o">Search</a>
+   
+  
+  
+
+
 
 
